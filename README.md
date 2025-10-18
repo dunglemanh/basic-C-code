@@ -1,1 +1,1 @@
-# here are simplest C codes
+# here are simplest C code
