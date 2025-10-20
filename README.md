@@ -1,1 +1,1 @@
-# here are simplest C cod
+# here are simplest C co
